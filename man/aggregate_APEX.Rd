@@ -15,5 +15,5 @@ aggregate_APEX(result_APEX, group_by_vars)
 aggregated APEX result
 }
 \description{
-Apex Result aggregate using a list of variable
+aggregate APEX result by a list of variables
 }

@@ -10,5 +10,14 @@ License: GPL-3
 Encoding: UTF-8
 LazyData: true
 Imports: dplyr,
-        roxygen2
+        roxygen2,
+        methods,
+        rio,
+        tidyr,
+        readxl,
+        stringr,
+        utils,
+        rlang,
+        readr
 RoxygenNote: 6.1.1
+
